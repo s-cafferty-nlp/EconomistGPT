@@ -47,4 +47,4 @@ have acted illegally.
 
 ```
 
-### This content certainly isn't accurate, but it's definitely convincing. This is a great example of how GPT can be used to generate content for edtech. Unfortunately, this project also demonstrates how easily it is to generate mininformation at scale. 
+### This content certainly isn't accurate, but it's definitely convincing. This is a great example of how GPT can be used to generate content for edtech. Unfortunately, this project also demonstrates how easily it is to generate disinformation at scale. 
